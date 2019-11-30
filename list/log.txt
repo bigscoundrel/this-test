@@ -1,0 +1,23 @@
+2019-10-31 19:06:10,948-__main__-INFO-info
+2019-10-31 19:06:10,948-__main__-ERROR-errr..
+2019-10-31 19:06:10,948-__main__-WARNING-warning!!!
+2019-10-31 19:06:10,949-__main__-DEBUG-bugbugbug
+2019-10-31 19:06:59,792-__main__-INFO-info
+2019-10-31 19:06:59,792-__main__-ERROR-errr..
+2019-10-31 19:06:59,792-__main__-WARNING-warning!!!
+2019-10-31 19:06:59,793-__main__-DEBUG-bugbugbug
+2019-10-31 19:08:34,660-__main__-INFO-info
+2019-10-31 19:08:34,661-__main__-ERROR-errr..
+2019-10-31 19:08:34,661-__main__-WARNING-warning!!!
+2019-10-31 19:08:34,661-__main__-DEBUG-bugbugbug
+2019-10-31 19:20:14,322-__main__-DEBUG-dddddd
+2019-10-31 19:20:14,322-__main__-WARNING-warrrrrr
+2019-10-31 19:20:14,322-__main__-ERROR-errrr
+2019-10-31 19:20:14,322-__main__-INFO-infffff
+2019-10-31 20:29:35,633 - __main__ - INFO - Start print log
+2019-10-31 20:29:35,659 - __main__ - WARNING - Something maybe fail.
+2019-10-31 20:29:35,659 - __main__ - INFO - Finish
+2019-11-02 11:41:11,125-__main__-DEBUG-dddddd
+2019-11-02 11:41:11,142-__main__-WARNING-warrrrrr
+2019-11-02 11:41:11,142-__main__-ERROR-errrr
+2019-11-02 11:41:11,142-__main__-INFO-infffff
